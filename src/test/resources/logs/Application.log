@@ -1,0 +1,14 @@
+27/06/2020 22:00:19 devpinoyLogger Config file loaded !!!
+27/06/2020 22:00:19 devpinoyLogger OR file loaded !!!
+27/06/2020 22:00:27 devpinoyLogger Navigated to : http://www.zoho.com/
+27/06/2020 22:00:31 devpinoyLogger Clicking on an Element : homeLoginBtn_XPATH
+27/06/2020 22:00:32 devpinoyLogger Typing in an Element : username_ID entered value as : palgill8839@gmail.com
+27/06/2020 22:00:32 devpinoyLogger Clicking on an Element : userNextbtn_XPATH
+27/06/2020 22:00:33 devpinoyLogger Typing in an Element : password_XPATH entered value as : HiThere1234
+27/06/2020 22:00:33 devpinoyLogger Clicking on an Element : passwordNextbtn_XPATH
+27/06/2020 22:00:53 devpinoyLogger Clicking on an Element : smsVerifyBtn_XPATH
+27/06/2020 22:00:53 devpinoyLogger Clicking on an Element : trustBrower_XPATH
+27/06/2020 22:01:06 devpinoyLogger Clicking on an Element : gotoCRM_XPATH
+27/06/2020 22:01:07 devpinoyLogger Clicking on an Element : goToAccountTab_XPATH
+27/06/2020 22:01:08 devpinoyLogger Clicking on an Element : gotoCreateAccount_XPATH
+27/06/2020 22:01:09 devpinoyLogger Typing in an Element : filInfo_XPATH entered value as : Raman
